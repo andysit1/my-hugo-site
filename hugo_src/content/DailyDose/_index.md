@@ -1,7 +1,4 @@
 +++
-title = "daily"
+title = "dailydose"
 menu = "main"
 +++
-
-___
-Thing's I'm doing each day 🌻 
