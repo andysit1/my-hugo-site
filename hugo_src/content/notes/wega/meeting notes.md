@@ -30,3 +30,21 @@ date = "2024-09-05"
 			- obs setup
 		- Video Clipping Key moments
 	- how do we make it easier for streams to make it easier
+
+
+
+
+
+
+
+
+
+@Productions
+
+Hi guys this week is pretty chill since most of the scheduled games have been canceled or have been eleminated by their playoffs. 
+
+Stream Schedule
+
+
+
+We need a meeting to discus our larger streams comming up being the Overwatch and Valorant tournament. I'm going to set a hard date cause I'm too lazy to do a lettuce meet. If you can't make it's okay cause we got meeting notes / I'll send over what we need.

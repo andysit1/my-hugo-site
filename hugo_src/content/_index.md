@@ -9,7 +9,7 @@ title = "andysit.com"
 
 **who am I?** 
 
-I'm a 19 year old university student studying computer science in Canada. Wanted to have a little space on the internet for myself. Feel free to read about myself and browse around.
+I'm a 20 year old university student studying computer science in Canada. Wanted to have a little space on the internet for myself. Feel free to read about myself and browse around.
 
 Thing's about me
 - 🤓 Coding
@@ -20,7 +20,7 @@ Thing's about me
     - I'm interested in **game development**, particularly the implementation
     - **video processing** and **automation** are some key interests
 - 📖 Books
-    - I like to read a lot about **productivity**
+    - I like to read a lot about **productivity** 
     - Working on branching into different topics
 
 ___
