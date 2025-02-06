@@ -1,4 +1,0 @@
-+++
-title = "dailydose"
-menu = "main"
-+++
