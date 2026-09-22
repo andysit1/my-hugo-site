@@ -5,28 +5,30 @@ title = "andysit.com"
 +++
 
 ---
-# Hello👋
+*about*
 
-**who am I?**
+I'm a computer science student in Canada, building things with code and looking for a little space of my own on the internet. Feel free to read about myself and browse around.
 
-I'm a 21 year old university student studying computer science in Canada. Wanted to have a little space on the internet for myself. Feel free to read about myself and browse around.
+## Coding
+---
+- Working across Python, C++, and VB.NET these days
+- Check out my code at [github.com/andysit1](https://github.com/andysit1)
+- Always exploring new technologies
 
-Thing's about me
-- 🤓 Coding
-    - At the moment I mainly develop in Python
-    - You can check my code at [github.com/andysit1](https://github.com/andysit1) 
-    - Enjoy exploring new technologies
-- ✨Interest
-    - **Fitness technology**, particularly computer vision for automated calorie tracking
-    - **Video processing** and **automation** are some key interests
-- ⚡ Hobbies
-    - **Drawing** and sketching, exploring visual art and design
-    - **Bouldering**, combining physical training with technical route-solving
+## Interests
+---
+- **Fitness technology**, particularly computer vision for automated calorie tracking
+- **Video processing** and **automation**
 
-___
+## Hobbies
+---
+- **Drawing** and sketching, exploring visual art and design
+- **Bouldering**, combining physical training with technical route-solving
+
+---
 *credit*
 
 Check out these links! Without them it would have taken so much more time than needed.
-- [hugo](https://gohugo.io/) - Go based static website generator
-- [python obsidian-to-hugo](https://github.com/devidw/obsidian-to-hugo)  - Converts from my obsidian vault to hugo content folder
-- [hugo-bearblog](https://github.com/janraasch/hugo-bearblog/) Made with 💟 by [Jan Raasch](https://www.janraasch.com/) - theme used base on [https://bearblog.dev](https://bearblog.dev/)
+- [hugo](https://gohugo.io/) — Go based static website generator
+- [python obsidian-to-hugo](https://github.com/devidw/obsidian-to-hugo) — converts from my Obsidian vault to Hugo content folder
+- [hugo-bearblog](https://github.com/janraasch/hugo-bearblog/) — made with 💟 by [Jan Raasch](https://www.janraasch.com/), based on [bearblog.dev](https://bearblog.dev/)

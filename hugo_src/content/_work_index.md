@@ -8,7 +8,7 @@ menu = "main"
 
 A summary of where I've worked.
 
-EXPERIENCE
+## Experience
 ---
 
 **Computer Engineering Intern** | Kinectrics, Nuclear Equipment Solutions — *September 2025 – September 2026*
@@ -23,7 +23,7 @@ EXPERIENCE
 - Built a FastAPI and WebSockets backend synchronizing schema models between users and bots for real-time in-game trades, and cut infrastructure spend by 86% with 3 containerized (Docker) DigitalOcean droplets distributing requests across IP addresses.
 - Reduced external API call volume by 50% by adding a caching layer to an open-source bot framework.
 
-EDUCATION
+## Education
 ---
 
 **University of Western Ontario** — *September 2022 – April 2027 (expected)*

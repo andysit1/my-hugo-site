@@ -7,7 +7,7 @@ menu = "main"
 ---
 *about*
 
-Memorable projects base on the time they were created. Some are wrong but it's close enough. Omitted projects that resemble basic tutorials and are not finished to a point of satisfaction. So many projects in the grave yard that were started or never touched again. Outside of these projects below, I have a lot of folders attempting game engines in c, web dev, flutters apps, and e.t.c. Might post a screenshot :)
+Memorable projects, roughly based on when they were created. Some dates are approximate, but close enough. Omitted projects that resemble basic tutorials or aren't finished to a point of satisfaction. There's a graveyard of things started and never touched again — outside of the projects below, I have a lot of folders attempting game engines in C, web dev, Flutter apps, and more. Might post a screenshot someday.
 ## 2026
 ---
 **Memo Engine: AI-Assisted Real-Time Audio Capture** [link](https://github.com/andysit1/memo-engine)  
