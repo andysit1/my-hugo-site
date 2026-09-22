@@ -8,6 +8,11 @@ menu = "main"
 *about*
 
 Memorable projects base on the time they were created. Some are wrong but it's close enough. Omitted projects that resemble basic tutorials and are not finished to a point of satisfaction. So many projects in the grave yard that were started or never touched again. Outside of these projects below, I have a lot of folders attempting game engines in c, web dev, flutters apps, and e.t.c. Might post a screenshot :)
+## 2026
+---
+**Memo Engine: AI-Assisted Real-Time Audio Capture** [link](https://github.com/andysit1/memo-engine)  
+A per-app audio isolation engine (mic plus Discord/loopback, drift-corrected multi-track recording), built with pi-agent and custom skills I wrote for a plan-then-implement workflow, while I owned the architecture, technology tradeoffs, and hardware validation myself. Chose C++20/WASAPI over Python to hit a ~10ms zero-allocation capture deadline, and validated it with three gates an agent couldn't run: FFT-measured 76dB per-app isolation, a 10-minute live mic acceptance test, and a 2-hour soak test that caught a clock-drift bug.
+
 ## 2024
 ---
 **Video Content Pipeline** [link](https://github.com/andysit1/Video-Content-Pipeline)  
