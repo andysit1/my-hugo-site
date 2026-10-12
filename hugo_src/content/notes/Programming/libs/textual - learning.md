@@ -8,7 +8,7 @@ copy from my daily notes
 
 will slowly add stuff here as a more central location for my notes.
 
-[2024-08-20]({{< ref "2024-08-20" >}})
+2024-08-20
 - textual
 	- reactive
 		- _descriptor protocol_ -> 
