@@ -17,9 +17,15 @@
 
   body {
     font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.65;
     background-color: var(--bg);
     color: var(--text);
     overflow-x: hidden;
+  }
+
+  p {
+    margin: 0 0 1em;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -31,8 +37,8 @@
   }
 
   h1 { font-size: 2.6rem; }
-  h2 { font-size: 2rem; }
-  h3 { font-size: 1.5rem; }
+  h2 { font-size: 2rem; color: var(--accent); }
+  h3 { font-size: 1.5rem; color: var(--accent); }
 
   strong, b {
     color: var(--text);
@@ -40,19 +46,31 @@
   }
 
   main h2 {
-    margin-top: 1.8em;
+    margin: 1.6em 0 0;
   }
 
+  /* The rule under each section heading: short, green, tucked under the heading. */
   main h2 + hr {
-    margin-top: 0.4em;
+    width: 48px;
+    margin: 0.35em 0 1em;
+    border-top: 2px solid var(--accent);
   }
 
   ul, ol {
+    margin: 0 0 1em;
     padding-left: 1.3em;
   }
 
   li {
-    margin: 0.35em 0;
+    margin: 0.3em 0;
+  }
+
+  li::marker {
+    color: var(--accent);
+  }
+
+  em {
+    color: var(--accent);
   }
 
   li > ul, li > ol {
@@ -60,20 +78,28 @@
   }
 
   header {
-    margin-bottom: 1.2em;
+    margin-bottom: 0.5em;
   }
 
-  .title,
-  .title h1 {
-    font-family: var(--font-heading);
-    font-weight: 400;
+  header .title h2 {
+    font-size: 2.4rem;
+    color: var(--accent);
+    margin: 0.4em 0 0.2em;
   }
 
   a {
     color: var(--accent);
     font-family: var(--font-body);
-    border-bottom: 2px solid var(--accent);
-    transition: border-color 0.2s ease, opacity 0.2s ease;
+    font-weight: 600;
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    transition: opacity 0.2s ease;
+  }
+
+  .title {
+    text-decoration: none;
   }
 
   a:hover {
@@ -83,6 +109,7 @@
   hr {
     border: none;
     border-top: 1px solid var(--tile-3);
+    margin: 1.4em 0;
   }
 
   nav a {
@@ -90,7 +117,17 @@
     margin-right: 18px;
     padding-bottom: 3px;
     border-bottom: none;
+    text-decoration: none;
+    font-weight: 500;
     color: var(--text);
+  }
+
+  nav {
+    margin-bottom: 1.6em;
+  }
+
+  nav br {
+    display: none;
   }
 
   nav a::after {
@@ -159,7 +196,7 @@
   @media (prefers-color-scheme: dark) {
     body { background-color: var(--bg); color: var(--text); }
     h1, h2, h3, h4, h5, h6, strong, b { color: var(--text); }
-    a { color: var(--accent); border-bottom-color: var(--accent); }
+    a { color: var(--accent); border-bottom: none; }
     nav a { color: var(--text); }
     code { background-color: var(--tile-2); }
     pre code { color: var(--text); background-color: var(--tile-1); }
